@@ -28,11 +28,6 @@
 
 </div>
 
-<div align=center>
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Taeyoung96)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 <img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
