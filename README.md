@@ -4,7 +4,7 @@
 ### :orange_book: Reasearch Interest :
 > 🔸 **Computer Vision** - Object Detection/Classfication, Segmentation, 3D reconstruction    
 > 🔸 **Sensor Funsion** - Combination of camera, lidar, imu
-> 🔸 **SLAM** - Visual SLAM, Visual odometry  
+> 🔸 **SLAM** - Visual SLAM, Visual odometry
 > 🔸 **Robotics** - Husky, pinoor, turtlebot
 
 
