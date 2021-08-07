@@ -14,7 +14,7 @@
 
 
 
-[![CV](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/huziqi/huziqi/blob/main/huziqi_cv.pdf)
+[![CV](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://github.com/huziqi/huziqi/blob/main/hzq_cv_en.pdf)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ziqihu@outlook.com)](mailto:ziqihu@outlook.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://cnblogs.com/huziqi/)
 
