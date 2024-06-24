@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🌱 I am currently studying at Nankai University college of Artificial Intelligence.
+### 🌱 
 ### :orange_book: Reasearch Interest :
 > 🔸 **SLAM** - Visual SLAM, 3D reconstruction      
 > 🔸 **Computer Vision** - Object Detection/Classfication, Segmentation    
