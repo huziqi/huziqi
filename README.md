@@ -2,7 +2,7 @@
 
 ### 🌱 
 ### :orange_book: Reasearch Interest :
-> 🔸 **Smart Grid** - HVAC control, Large language models, cyber-physical systems
+> 🔸 **Smart Grid** - HVAC control, Large language models, cyber-physical systems      
 > 🔸 **SLAM** - Visual SLAM, 3D reconstruction      
 > 🔸 **Computer Vision** - Object Detection/Classfication, Segmentation    
 > 🔸 **Robotics** - Husky, pioneer, turtlebot
